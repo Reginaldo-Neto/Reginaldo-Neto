@@ -24,10 +24,7 @@
 ## ⭐️ Sobre mim
 <div align='center'>
   <b> Tentando ser alguém na vida. </b>
-</div><br>
-
-Estudante de <b>Ciência da Computação</b> na UTFPR - CM. 
-
+</div>
 <br><br>
 
 <div align="center">
