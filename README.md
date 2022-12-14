@@ -33,7 +33,6 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
 <div align="center">
   <table>
     <tr>
-    <tr>
       <td>
         <b>🎓 Ciência da Computação</b>
       <td>
@@ -43,8 +42,6 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
         <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
       </td>
     </tr>
-  </tr>
-  <tr>
     <tr>
       <td>
         <b>🥇 Esportista </b>
@@ -55,7 +52,6 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
         <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
        </td>
     </tr>
-  </tr>
   </table>
 </div>
 
