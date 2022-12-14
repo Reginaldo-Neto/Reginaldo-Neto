@@ -49,6 +49,7 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
     </tr>
     <tr>
       <td>
+        <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
        </td>
     </tr>
   </table>
