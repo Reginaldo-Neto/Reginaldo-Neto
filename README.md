@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
-    <img src='https://gfycat.com/ifr/AnimatedUnripeIchneumonfly'>
+    <img src='https://github.com/Reginaldo-Neto/Reginaldo-Neto/welcome-back-minions.gif'>
   </a>
 </div>
 <br>
@@ -22,7 +22,6 @@
 </div>
 
 ## ⭐️ Sobre mim
-              <br>
 <div align='center'>
   <b> Tentando ser alguém na vida. </b>
 </div><br>
