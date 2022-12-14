@@ -38,7 +38,7 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
       <td>
     </tr>
     <tr>
-      <tr>
+      <td>
         <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
       </td>
     </tr>
