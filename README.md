@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 <div align="center">
-  <a href="https://github.com/Reginaldo-Neto" style='position:relative; padding-bottom:calc(45.20% + 44px)'>
-    <img src='https://gfycat.com/ifr/AnimatedUnripeIchneumonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen>
+  <a href="https://github.com/Reginaldo-Neto">
+    <img src='https://gfycat.com/ifr/AnimatedUnripeIchneumonfly>
   </a>
 </div>
 <br>
@@ -49,8 +49,7 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
     </tr>
     <tr>
       <td>
-        <div class="tenor-gif-embed" data-postid="17130894" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/workout-sponge-bob-square-pants-sponge-bob-cartoon-flex-gif-17130894">Workout Sponge Bob Square Pants GIF</a>from <a href="https://tenor.com/search/workout-gifs">Workout GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-      </td>
+       </td>
     </tr>
   </table>
 </div>
