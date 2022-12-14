@@ -47,7 +47,7 @@
     </tr>
   </table>
 </div>
-
+<!--
 ## ⭐️ Hard Skills
 <div align="center">
   <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
