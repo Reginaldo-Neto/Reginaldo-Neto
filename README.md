@@ -22,6 +22,7 @@
 </div>
 
 ## ⭐️ Sobre mim
+              <br>
 <div align='center'>
   <b> Tentando ser alguém na vida. </b>
 </div><br>
