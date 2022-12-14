@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
-    <img src="Welcome.png" width="500">
+    <img src="https://gfycat.com/animatedunripeichneumonfly" width="500">
   </a>
 </div>
 <br>
@@ -9,14 +9,8 @@
   <a href="https://github.com/Reginaldo-Neto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-  </a>
   <a href = "mailto:reginaldoneto@alunos.utfpr.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/Reginaldo-Neto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <br>
   <a href="https://instagram.com/greg.net0" target="_blank">
