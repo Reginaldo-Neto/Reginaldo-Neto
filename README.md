@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
-    <img src="https://gfycat.com/animatedunripeichneumonfly" heigt="200" width="500">
+    <div style='position:relative; padding-bottom:calc(45.20% + 44px)'><iframe src='https://gfycat.com/ifr/AnimatedUnripeIchneumonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
   </a>
 </div>
 <br>
