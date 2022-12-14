@@ -49,7 +49,7 @@ Estudante de <b>Ciência da Computação</b> na UTFPR - CM.
     </tr>
     <tr>
       <td>
-        <img src="https://tenor.com/bj2GU.gif" width="300px" height="170px">
+        <div class="tenor-gif-embed" data-postid="17130894" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/workout-sponge-bob-square-pants-sponge-bob-cartoon-flex-gif-17130894">Workout Sponge Bob Square Pants GIF</a>from <a href="https://tenor.com/search/workout-gifs">Workout GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       </td>
     </tr>
   </table>
