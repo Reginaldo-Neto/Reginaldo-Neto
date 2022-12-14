@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+        <img src="https://gohorseprocess.com.br/wp-content/uploads/2017/05/xgh-e1330433625262.jpg" width="300px" height="170px">
       </td>
       <td>
         <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
