@@ -36,6 +36,9 @@
       <td>
         <b>🥇 Esportista </b>
       </td>
+      <td>
+        <b>🥁 Músico e Ritmista</b>
+      </td>
     </tr>
     <tr>
       <td>
@@ -43,6 +46,9 @@
       </td>
       <td>
         <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
+      </td>
+      <td>
+        <img src="https://thumbs.gfycat.com/PeacefulThankfulGrayling-max-1mb.gif" width="300px" height="170px">
       </td>
     </tr>
   </table>
