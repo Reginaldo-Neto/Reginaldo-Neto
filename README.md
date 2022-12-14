@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 ### Hi there 👋
 
 <!--
