@@ -23,7 +23,7 @@
 
 ## ⭐️ Sobre mim
 <div align='center'>
-  <b> Tentando ser alguém na vida. </b>
+  <b> Estuando mestrado no IPB em Portugal </b>
 </div>
 <br><br>
 
