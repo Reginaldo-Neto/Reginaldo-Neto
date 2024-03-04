@@ -48,7 +48,7 @@
         <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
       </td>
       <td>
-        <img src="https://thumbs.gfycat.com/PeacefulThankfulGrayling-max-1mb.gif" width="300px" height="170px">
+        <img src="https://makeagif.com/i/RDqnuX" width="300px" height="170px">
       </td>
     </tr>
   </table>
