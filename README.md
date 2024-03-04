@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
+[Profile views](https://gpvc.arturio.dev/Reginaldo-Neto)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
     <img src='https://github.com/Reginaldo-Neto/Reginaldo-Neto/blob/main/welcome-back-minions.gif?raw=true'>
@@ -48,7 +48,7 @@
         <img src="https://media.tenor.com/r2Iy5suweckAAAAC/workout-sponge-bob-square-pants.gif" width="300px" height="170px">
       </td>
       <td>
-        <img src="https://giphy.com/embed/ZBQdtV9txBoNq7AOYE" width="300px" height="170px">
+        <img src="https://giphy.com/embed/ZBQdtV9txBoNq7AOYE](https://giphy.com/gifs/casimiro-tocando-pandeiro-ZBQdtV9txBoNq7AOYE" width="300px" height="170px">
       </td>
     </tr>
   </table>
