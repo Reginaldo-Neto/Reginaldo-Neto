@@ -1,4 +1,4 @@
-[Profile views]![](https://komarev.com/ghpvc/?username=Reginaldo-Neto)
+![](https://komarev.com/ghpvc/?username=Reginaldo-Neto&color=lightgreen)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
     <img src='https://github.com/Reginaldo-Neto/Reginaldo-Neto/blob/main/welcome-back-minions.gif?raw=true'>
