@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Reginaldo-Neto&color=lightgreen)
+![](https://komarev.com/ghpvc/?username=Reginaldo-Neto&color=green)
 <div align="center">
   <a href="https://github.com/Reginaldo-Neto">
     <img src='https://github.com/Reginaldo-Neto/Reginaldo-Neto/blob/main/welcome-back-minions.gif?raw=true'>
