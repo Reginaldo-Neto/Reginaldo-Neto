@@ -6,8 +6,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Reginaldo-Neto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/reginaldo-neto-085b5b2b6" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:reginaldoneto@alunos.utfpr.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
