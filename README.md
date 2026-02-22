@@ -23,7 +23,7 @@
 
 ## ⭐️ Sobre mim
 <div align='center'>
-  <b> Estuando mestrado no IPB em Portugal </b>
+  <b> Estudante de PhD em Engenharia de Sistemas Inteligentes Portugal </b>
 </div>
 <br><br>
 
